@@ -1,3 +1,4 @@
+
 package org.javaee7.sample;
 
 import javax.xml.bind.annotation.XmlRootElement;
@@ -28,4 +29,8 @@ public class Person {
     public String toString() {
         return name;
     }
-}// hotfix commit 1
+}
+// hotfix commit 1
+
+// commit develop 2
+
